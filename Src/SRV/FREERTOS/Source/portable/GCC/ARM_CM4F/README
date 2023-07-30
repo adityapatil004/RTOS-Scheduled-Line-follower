@@ -1,0 +1,1 @@
+This folder consists of the code that makes consists of CPU specific functions. Here the for the ARM Cortex M4 CPU. This is the source that makes the code CPU independent.
