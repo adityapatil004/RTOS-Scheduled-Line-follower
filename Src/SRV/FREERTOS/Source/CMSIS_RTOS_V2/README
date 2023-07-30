@@ -1,0 +1,1 @@
+This folder consists of the CMSIS rtos wrappers for the freertos. They provide functions for use in the stm microcontrollers.
